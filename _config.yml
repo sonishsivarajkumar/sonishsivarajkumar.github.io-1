@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Alex Morehead
+title               : Sonish Sivarajkumar
 description         : >-
 
                       <style>
@@ -22,13 +22,13 @@ description         : >-
                       }
                       </style>
 
-                      Ph.D. Student in Machine Learning & Computational Biology <a target='_blank' rel='noopener noreferrer' href='https://missouri.edu/'>@Mizzou</a>.
+                      Ph.D. Student in Machine Learning & Computational Biology <a target='_blank' rel='noopener noreferrer' href='https://pitt.edu/'>@Pitt</a>.
 
-                      <a class='button' target='_blank' rel='noopener noreferrer' href='https://amorehead.github.io/assets/pdf/Alex_Morehead_CV.pdf'>
+                      <a class='button' target='_blank' rel='noopener noreferrer' href='https://sonishsivarajkumar.github.io/assets/pdf/Alex_Morehead_CV.pdf'>
                         CV/Resume
                       </a>
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : amorehead/amorehead.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : sonishsivarajkumar/sonishsivarajkumar.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU@v2.2.2
 
 
@@ -46,24 +46,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : Alex Morehead
+  name              : Sonish Sivarajkumar
   image             : https://amorehead.github.io/assets/img/portfolio_picture.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : alex.morehead@gmail.com
+  email             : sonish.sivarajkumar@gmail.com
 # facebook          : your_username
-  github            : amorehead
+  github            : sonishsivarajkumar
 # gitlab            : your_username
 # instagram         : your_username
-  kaggle            : amorehead
-  linkedin          : alexmorehead
-# medium            : your_username
-  soundcloud        : lexorehead
+  kaggle            : sonish2383
+  linkedin          : sonish-sivarajkumar-7b2b19163
+  medium            : sonish.sivarajkumar
+# soundcloud        : lexorehead
 # spotify           : your_username
-  stackoverflow     : 7614810
+# stackoverflow     : 7614810
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : MoreheadAlex
+  twitter           : sonish_sivaraj
 # vimeo             : your_username
 # youtube           : your_channel_name
 
