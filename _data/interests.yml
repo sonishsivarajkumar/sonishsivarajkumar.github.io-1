@@ -1,0 +1,15 @@
+- name: Machine Learning
+  percentage: 80
+  color:
+
+- name: Deep Learning
+  percentage: 90
+  color: success
+
+- name: Computational Biology
+  percentage: 80
+  color:
+
+- name: High-Performance Computing
+  percentage: 75
+  color: danger

@@ -1,0 +1,72 @@
+- title: Graduate Research Assistant, University of Missouri
+  from: 2020
+  to: present
+  description: • Research and develop novel geometric deep learning algorithms applicable to computational biology<br>
+               • Authored and publicly released the NSF-funded DeepInteract, a state-of-the-art geometric deep learning pipeline for predicting protein interface contacts, along with the new Geometric Transformer<br>
+               • Curated the NSF-funded DIPS-Plus, to date the largest feature-rich protein interface prediction dataset comprised of 42,000 protein complexes, and publicly released it alongside a dedicated manuscript
+
+- title: Data Science Intern, Altec
+  from: 2021
+  to: present
+  description: • Design and develop end-to-end machine learning pipelines in AWS using Python and R<br>
+               • Collaborate closely with business stakeholders and analysts to understand data and the problem to be solved<br>
+               • Work with other development teams to integrate models into user applications
+
+- title: Volunteer & Teaching Assistant, EnCircle Tech
+  from: 2021
+  to: present
+  description: • Teach youth with Autism Spectrum Disorder (ASD) technical skills for future employment and hobbies
+
+- title: Software Development Intern, Altec
+  from: 2018
+  to: 2021
+  description: • Reduced miscommunication between service centers globally by engineering over 5 new Angular web applications<br>
+               • Built more than 6 secure backend APIs with the Spring framework in an agile development setting<br>
+               • Maintained the test environments of 3 in-house applications by writing LINQ queries and tuning up test databases
+
+- title: Undergraduate Research Assistant, IUPUI
+  from: 2019
+  to: 2019
+  description: • Authored an ensemble pipeline of 3 convolutional neural networks trained to detect gunshot sounds in the vicinity<br>
+               • Deployed the pipeline to a cluster of Raspberry Pi 3 Model B+ microcomputers and evaluated its performance in real-world settings in collaboration with Indianapolis public safety officials<br>
+               • Published as a manuscript and orally presented the gunshot sound detection project’s results at the 2019 IEEE International Conference on Big Data
+
+- title: Undergraduate Research Assistant, MWSU
+  from: 2018
+  to: 2018
+  description: • Investigated applications of combinatorial optimization to model lab experiments performed by synthetic biologists<br>
+               • Produced Variant Sampler, a Java application for modeling the sample space of in vitro experiments<br>
+               • Published results of the Variant Sampler project in the American Journal of Undergraduate Research
+
+- title: Computer Science Content Tutor, MWSU
+  from: 2017
+  to: 2018
+  description: • Tutored a total of 5 undergraduate students, 2 being from underrepresented groups<br>
+               • Spent up to 1 hour with each student per week, reviewing important computer science topics such as data structures and object-oriented programming<br>
+               • Designed and initiated a customized learning plan for each student’s success
+
+- title: Ph.D. in Computer Science, University of Missouri
+  from: 2020
+  to: present
+  description: AWARDS:<br>
+               James W. and Joan M. O'Neill Graduate Fellowship in Engineering | Aug 2020 - Apr 2021<br>
+               Dean's Engineering Excellence Fellowship | Aug 2020 - Apr 2021<br>
+               <br>
+               RELEVANT COURSEWORK:<br>
+               Computational Intelligence, Machine Learning/Pattern Recognition, Unsupervised Learning, Computational Systems Biology, Design & Analysis of Algorithms, Advanced Natural Language Processing
+
+- title: B.S. in Computer Science, MWSU
+  from: 2016
+  to: 2020
+  description: AWARDS:<br>
+               Outstanding Graduating Student Award | Apr 2020<br>
+               President's Honor Roll | Aug 2016 - Apr 2020<br>
+               Scholastic Key Award | Aug 2016 - Apr 2020<br>
+               Floyd Tesmer/Strayer University Prize in Computer Science and Engineering | Apr 2019<br>
+               Alpha Chi Region IV Scholarship | Apr 2019<br>
+               <br>
+               MINOR:<br>
+               Mathematics<br>
+               <br>
+               RELEVANT COURSEWORK:<br>
+               Data Structures, Object Oriented Applications & Program Development, Compiler Theory, Database Architecture & Concepts, Operating System Concepts, Networking & Telecommunications

@@ -1,0 +1,11 @@
+- name: Python
+  percentage: 90
+  color: success
+
+- name: PyTorch
+  percentage: 85
+  color:
+
+- name: C/C++
+  percentage: 60
+  color: danger
